@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Manglesh Saurabh](https://github.com/Manglesh123)
+- Place: New Delhi, India
+- Bio: ECE student 3rd year
+- Github: [Manglesh Saurabh](https://github.com/Manglesh123)
